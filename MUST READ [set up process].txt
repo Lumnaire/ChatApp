@@ -1,0 +1,14 @@
+when done downloading file:
+
+Step 1: Drag and drop the ChatApp folder into your IDE like Visual Studio Code
+Step 2: open Visual Studio Code terminal or press Ctrl + ` (if manual click, look to the top left and click Terminal and click new terminal)
+Step 3: when terminal is open, type cd frontend and press enter after that type npm i, lastly after the installation, type npm run dev and click enter to see the project on localhost:5173
+
+In order to see the users and manipulate the users: Go to this website https://chatengine.io/ 
+and sign up using this acc:
+
+lazadangatan@gmail.com
+password: Chatapp2024
+
+issue: only 10 maximum users can be created in the project, you will pay for the subscription in the chatengine.io
+if you want to expand the users limit
